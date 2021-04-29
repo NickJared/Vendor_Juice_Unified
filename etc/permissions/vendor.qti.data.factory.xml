@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!--
+    Copyright (c) 2015 Qualcomm Technologies, Inc. All Rights Reserved.
+    Qualcomm Technologies Proprietary and Confidential.
+-->
+
+<permissions>
+    <library name="vendor.qti.data.factory-V1.0-java"
+             file="/product/framework/vendor.qti.data.factory-V1.0-java" />
+    <library name="vendor.qti.data.factory-V2.0-java"
+             file="/product/framework/vendor.qti.data.factory-V2.0-java" />
+    <library name="vendor.qti.data.factory-V2.1-java"
+             file="/product/framework/vendor.qti.data.factory-V2.1-java" />
+</permissions>
